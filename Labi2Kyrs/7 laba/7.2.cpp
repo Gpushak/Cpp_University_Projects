@@ -1,56 +1,64 @@
 #include <iostream>
 #include <cstdarg>
-#include <utility>
 using namespace std;
-int gcd(int a, int b) {
-	while (b != 0) {
-		int temp = b;
-		b = a % b;
-		a = temp;
-	}
-	return a;
+const int N = 30;
+
+//Функция НОД
+int nod(int a, int b) {
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
+    return a;
 }
 
-int lcm(int a, int b) {
-	return (a * b) / gcd(a, b);
-}
+int sum(int n, ...) {
+    va_list n1;
 
-pair<int, int> reduceFraction(int num, int den) {
-	int div = gcd(num, den);
-	return make_pair(num / div, den / div);
-}
+    //Переменные для итоговых числителя/знаменателя
+    unsigned int reschis = 0; 
+    unsigned int resznam = 1;
 
-pair<int, int> sum(int count, ...) {
-	va_list args;
-	va_start(args, count);
+    va_start(n1, n);
 
-	int num = 0;
-	int den = 1;
+    //Массив для чисел в дробях
+    int drobi[N];
+    for (int i = 0; i < n * 2; i++) {
+        drobi[i] = va_arg(n1, int);
+    }
+    va_end(n1);
 
-	for (int i = 0; i < count; ++i) {
-		int chis = va_arg(args, int);
-		int znam = va_arg(args, int);
+    //Приведение к общему знаменателю
+    for (int i = 0; i < n * 2; i = i + 1) {
+        if (i % 2 != 0) {
+            resznam = resznam * drobi[i];
+        }
+    }
 
-		num += chis * (lcm(den, znam) / znam);
-		den = lcm(den, znam);
-	}
+    //Преобразование числителя
+    for (int i = 0; i < n * 2 - 1; i++) {
+        if (i % 2 == 0) {
+            drobi[i] = resznam / drobi[i + 1];
+            reschis = reschis + drobi[i];
+        }
+    }
 
-	va_end(args);
+    //Преобразование всей дроби использую НОД
+    int nod1 = nod(reschis, resznam);
+    reschis = reschis / nod1;
+    resznam = resznam / nod1;
 
-	return reduceFraction(num, den);
+    cout << "Результат суммы " << n << " дробей: " << reschis << "/" << resznam << endl;
+    return 0;
 }
 
 int main() {
-	setlocale(LC_ALL, "rus");
-	// Вызов функции sum с разным количеством параметров
-	pair<int, int> result1 = sum(5, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6);
-	pair<int, int> result2 = sum(10, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6, 1, 7, 1, 8, 1, 9, 1, 10, 1, 11);
-	pair<int, int> result3 = sum(12, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6, 1, 7, 1, 8, 1, 9, 1, 10, 1, 11, 1, 12, 1, 13);
+    setlocale(LC_ALL, "rus");
 
-	// Вывод результатов
-	cout << "Сумма дробей 1: " << result1.first << "/" << result1.second << endl;
-	cout << "Сумма дробей 2: " << result2.first << "/" << result2.second << endl;
-	cout << "Сумма дробей 3: " << result3.first << "/" << result3.second << endl;
+    sum(5, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6);
+    sum(10, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6, 1, 7, 1, 8, 1, 9, 1, 10, 1, 11);
+    sum(12, 1, 2, 1, 3, 1, 4, 1, 5, 1, 6, 1, 7, 1, 8, 1, 9, 1, 10, 1, 11, 1, 12, 1, 13);
 
-	return 0;
+    return 0;
 }
