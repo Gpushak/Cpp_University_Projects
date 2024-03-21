@@ -10,7 +10,7 @@ int main() {
     cin >> rows >> cols;
 
     // Шаг 2: Создание двумерного массива с помощью операции new
-    int** array = new int* [rows];
+    int* array = new int* [rows];
     for (int i = 0; i < rows; ++i) {
         array[i] = new int[cols];
     }
