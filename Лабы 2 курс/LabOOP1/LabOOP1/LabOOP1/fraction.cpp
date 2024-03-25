@@ -1,6 +1,6 @@
 #include <iostream>
 #pragma once
-#include "C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP1\LabOOP1\LabOOP1\fraction.h"
+#include "fraction.h"
 using namespace std;
 
 void fraction::Init(double F, int S) {
