@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|solutionrelative:LabOOP1\\LabOOP1_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|solutionrelative:LabOOP1\\fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|solutionrelative:LabOOP1\\fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01563285-6FC4-43DB-B7C8-F3342F50FED5}|LabOOP1\\LabOOP1.vcxproj|solutionrelative:LabOOP1\\fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "LabOOP1\\LabOOP1_main.cpp",
               "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\LabOOP1_main.cpp",
               "RelativeToolTip": "LabOOP1\\LabOOP1_main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAADwv0kAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T10:35:56.989Z",
               "IsPinned": true,
@@ -40,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "fraction.cpp",
               "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\fraction.cpp",
               "RelativeDocumentMoniker": "LabOOP1\\fraction.cpp",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "fraction.h",
               "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP1\\LabOOP1\\LabOOP1\\fraction.h",
               "RelativeDocumentMoniker": "LabOOP1\\fraction.h",
