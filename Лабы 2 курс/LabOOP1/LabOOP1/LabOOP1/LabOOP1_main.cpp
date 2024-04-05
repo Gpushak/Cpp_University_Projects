@@ -1,5 +1,4 @@
 #include <iostream>
-#pragma once
 #include "fraction.h"
 using namespace std;
 

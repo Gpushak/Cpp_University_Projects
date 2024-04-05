@@ -1,0 +1,780 @@
+﻿  LabOOP3_main.cpp
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,9): error C2433: istream: "friend" не разрешается для объявлений данных
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,50): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,9): error C2433: ostream: "friend" не разрешается для объявлений данных
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,57): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "LabOOP3_main.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(296,39):
+  может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(292,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(288,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(284,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(280,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(276,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(272,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(268,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(264,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(260,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(252,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(248,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(216,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(212,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(183,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(178,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(173,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(900,9):
+  или       "_Istr &&std::operator >>(_Istr &&,_Ty &&)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  	"_Istr &&std::operator >>(_Istr &&,_Ty &&)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(899,102):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(887,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char &"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(881,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  	инициализация: невозможно преобразовать "Time" в "signed char &"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(858,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  	"std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': не удалось вывести аргумент шаблон для '_Elem &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(852,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(847,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  	инициализация: невозможно преобразовать "Time" в "signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,7):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(842,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': не удалось вывести аргумент шаблон для '_Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5144,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(10,2):
+  при попытке сопоставить список аргументов "(std::istream, Time)"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2): error C2679: бинарный ">>": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(296,39):
+  может быть "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(292,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(288,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(284,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(280,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(276,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(272,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(268,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(264,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(260,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(252,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(248,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(216,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(212,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(183,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(178,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(173,39):
+  или       "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(900,9):
+  или       "_Istr &&std::operator >>(_Istr &&,_Ty &&)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  	"_Istr &&std::operator >>(_Istr &&,_Ty &&)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(899,102):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(887,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char &"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(881,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  	инициализация: невозможно преобразовать "Time" в "signed char &"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(858,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  	"std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': не удалось вывести аргумент шаблон для '_Elem &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(852,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(847,31):
+  или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  	инициализация: невозможно преобразовать "Time" в "signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,7):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream(842,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': не удалось вывести аргумент шаблон для '_Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5144,32):
+  или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(11,2):
+  при попытке сопоставить список аргументов "(std::istream, Time)"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(480,39):
+  может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(448,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(430,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(412,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(394,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(376,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(358,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(340,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(322,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(303,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(277,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(258,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(224,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(206,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(200,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(194,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(189,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1080,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "const std::error_code &"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Причина: невозможно преобразовать "Time" в "const std::error_code"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1003,9):
+  или       "_Ostr &&std::operator <<(_Ostr &&,const _Ty &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	"_Ostr &&std::operator <<(_Ostr &&,const _Ty &)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1002,103):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(945,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(939,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "const unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(934,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "signed char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(928,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "const signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(892,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	"std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': не удалось вывести аргумент шаблон для '_Elem' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(849,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': не удалось вывести аргумент шаблон для 'const _Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(811,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(766,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(730,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(686,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,8):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3629,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty2,_Dx2> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1978,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5193,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(13,2):
+  при попытке сопоставить список аргументов "(std::ostream, Time)"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(480,39):
+  может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(448,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(430,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(412,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(394,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(376,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(358,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(340,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(322,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(303,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(277,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(258,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(224,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(206,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(200,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(194,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(189,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1080,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "const std::error_code &"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Причина: невозможно преобразовать "Time" в "const std::error_code"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1003,9):
+  или       "_Ostr &&std::operator <<(_Ostr &&,const _Ty &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	"_Ostr &&std::operator <<(_Ostr &&,const _Ty &)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1002,103):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(945,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(939,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "const unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(934,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "signed char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(928,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "const signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(892,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	"std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': не удалось вывести аргумент шаблон для '_Elem' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(849,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': не удалось вывести аргумент шаблон для 'const _Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(811,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(766,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(730,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(686,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3629,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty2,_Dx2> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1978,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5193,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(15,6):
+  при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, Time)"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(480,39):
+  может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(448,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(430,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(412,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(394,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(376,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(358,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(340,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(322,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(303,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(277,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(258,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(224,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(206,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(200,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(194,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(189,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1080,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "const std::error_code &"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Причина: невозможно преобразовать "Time" в "const std::error_code"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1003,9):
+  или       "_Ostr &&std::operator <<(_Ostr &&,const _Ty &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	"_Ostr &&std::operator <<(_Ostr &&,const _Ty &)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1002,103):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(945,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(939,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "const unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(934,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "signed char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(928,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "const signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(892,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	"std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': не удалось вывести аргумент шаблон для '_Elem' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(849,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': не удалось вывести аргумент шаблон для 'const _Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(811,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(766,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(730,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(686,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3629,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty2,_Dx2> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1978,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5193,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(16,6):
+  при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, Time)"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(480,39):
+  может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(448,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(430,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(412,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(394,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(376,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(358,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(340,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(322,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(303,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(277,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(258,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(224,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(206,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(200,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(194,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(189,39):
+  или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1080,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "const std::error_code &"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Причина: невозможно преобразовать "Time" в "const std::error_code"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1003,9):
+  или       "_Ostr &&std::operator <<(_Ostr &&,const _Ty &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	"_Ostr &&std::operator <<(_Ostr &&,const _Ty &)": не удается вывести аргумент шаблон для "__formal"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(1002,103):
+  		"<template-parameter>": невозможно создать указатель на ссылку
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(945,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "unsigned char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(939,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "const unsigned char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(934,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "signed char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(928,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "const signed char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(892,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	"std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)": в шаблон параметр "_Elem" неоднозначен
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  		может быть "Time"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  		или       "char"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': не удалось вывести аргумент шаблон для '_Elem' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(849,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': не удалось вывести аргумент шаблон для 'const _Elem *' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(811,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(766,31):
+  или       "std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(730,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "char"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(686,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  	инициализация: невозможно преобразовать "Time" в "const char *"
+  		C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,14):
+  		Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3629,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty2,_Dx2> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(1978,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'Time'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5193,32):
+  или       "std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'Time'
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(17,6):
+  при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, Time)"
+  
+  Time.cpp
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,9): error C2433: istream: "friend" не разрешается для объявлений данных
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,50): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,9): error C2433: ostream: "friend" не разрешается для объявлений данных
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,57): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Time.cpp")
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,1): error C2872: istream: неоднозначный символ
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,9):
+  может быть "int istream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd(236,19):
+  или       "std::istream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,1): error C2086: int istream: переопределение
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,9):
+   см. объявление "istream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,20): error C2872: istream: неоднозначный символ
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(35,9):
+  может быть "int istream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd(236,19):
+  или       "std::istream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,9): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,28): error C2065: in: необъявленный идентификатор
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,37): error C2065: t: необъявленный идентификатор
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,32): error C2275: "Time": ожидается выражение вместо типа
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,19): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(32,19):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(33,1): error C2059: синтаксическая ошибка: {
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(33,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(33,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,1): error C2872: ostream: неоднозначный символ
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,9):
+  может быть "int ostream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd(237,19):
+  или       "std::ostream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,1): error C2086: int ostream: переопределение
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,9):
+   см. объявление "ostream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,20): error C2872: ostream: неоднозначный символ
+  C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.h(36,9):
+  может быть "int ostream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd(237,19):
+  или       "std::ostream"
+  
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,9): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,28): error C2065: out: необъявленный идентификатор
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(37,33): error C2059: синтаксическая ошибка: const
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(38,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\Time.cpp(38,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Создание кода...
