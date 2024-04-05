@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\LabOOP4_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|solutionrelative:LabOOP4\\LabOOP4_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|solutionrelative:LabOOP4\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|solutionrelative:LabOOP4\\Triad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|solutionrelative:LabOOP4\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F513591-4A8F-4D30-9873-9C8C2BEB2558}|LabOOP4\\LabOOP4.vcxproj|solutionrelative:LabOOP4\\Triad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triad.h",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.h",
+              "RelativeDocumentMoniker": "LabOOP4\\Triad.h",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.h",
+              "RelativeToolTip": "LabOOP4\\Triad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T14:37:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Time.h",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.h",
+              "RelativeDocumentMoniker": "LabOOP4\\Time.h",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.h",
+              "RelativeToolTip": "LabOOP4\\Time.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T14:37:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triad.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.cpp",
+              "RelativeDocumentMoniker": "LabOOP4\\Triad.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Triad.cpp",
+              "RelativeToolTip": "LabOOP4\\Triad.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T14:37:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.cpp",
+              "RelativeDocumentMoniker": "LabOOP4\\Time.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\Time.cpp",
+              "RelativeToolTip": "LabOOP4\\Time.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T14:37:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabOOP4_main.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\LabOOP4_main.cpp",
+              "RelativeDocumentMoniker": "LabOOP4\\LabOOP4_main.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP4\\LabOOP4Resh\\LabOOP4\\LabOOP4_main.cpp",
+              "RelativeToolTip": "LabOOP4\\LabOOP4_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T14:37:34.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

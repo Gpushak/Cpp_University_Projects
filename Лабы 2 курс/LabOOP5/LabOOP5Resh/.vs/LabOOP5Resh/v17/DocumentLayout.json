@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP5\\LabOOP5Resh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CC9E87-E378-4EA1-AD83-3FFD4D0ED0FB}|LabOOP5\\LabOOP5.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP5\\LabOOP5Resh\\LabOOP5\\LabOOP5_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CC9E87-E378-4EA1-AD83-3FFD4D0ED0FB}|LabOOP5\\LabOOP5.vcxproj|solutionrelative:LabOOP5\\LabOOP5_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabOOP5_main.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP5\\LabOOP5Resh\\LabOOP5\\LabOOP5_main.cpp",
+              "RelativeDocumentMoniker": "LabOOP5\\LabOOP5_main.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP5\\LabOOP5Resh\\LabOOP5\\LabOOP5_main.cpp",
+              "RelativeToolTip": "LabOOP5\\LabOOP5_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T15:28:48.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
