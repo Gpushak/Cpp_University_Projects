@@ -18,12 +18,15 @@
     <ClCompile Include="LabOOP3_main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Time.cpp">
+    <ClCompile Include="Money.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Time.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Money.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

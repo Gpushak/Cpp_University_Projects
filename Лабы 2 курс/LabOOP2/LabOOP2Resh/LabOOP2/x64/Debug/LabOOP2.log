@@ -1,5 +1,0 @@
-﻿  Car.cpp
-  labOOP2_main.cpp
-C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP2\LabOOP2Resh\LabOOP2\labOOP2_main.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода...
-  LabOOP2.vcxproj -> C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP2\LabOOP2Resh\x64\Debug\LabOOP2.exe
