@@ -1,0 +1,6 @@
+﻿  LabOOP6.cpp
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP6\LabOOP6Resh\LabOOP6\LabOOP6.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  List.cpp
+  Создание кода...
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP6\LabOOP6Resh\LabOOP6\List.cpp(52,1): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  LabOOP6.vcxproj -> C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP6\LabOOP6Resh\x64\Debug\LabOOP6.exe
