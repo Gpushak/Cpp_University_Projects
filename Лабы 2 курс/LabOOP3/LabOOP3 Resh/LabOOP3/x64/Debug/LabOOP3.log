@@ -1,2 +1,5 @@
-﻿  Money.cpp
-  LabOOP3.vcxproj -> C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\x64\Debug\LabOOP3.exe
+﻿  LabOOP3_main.cpp
+  Money.cpp
+C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\LabOOP3\LabOOP3_main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  LabOOP3.vcxproj -> C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP3\LabOOP3 Resh\x64\Debug\LabOOP3.exe

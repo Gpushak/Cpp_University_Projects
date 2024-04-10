@@ -3,7 +3,6 @@
 using namespace std;
 class Triad
 {
-    //конструктор без параметров
 public:
     Triad(void);
 public:

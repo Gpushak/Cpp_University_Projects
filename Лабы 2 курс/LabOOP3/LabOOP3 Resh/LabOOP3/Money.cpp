@@ -5,7 +5,7 @@ using namespace std;
 Money& Money::operator=(const Money& t)
 {
     //проверка на самоприсваивание
-    if (&t == this) return *this;
+
     rub = t.rub;
     kop = t.kop;
     return *this;

@@ -7,9 +7,7 @@ Triad::Triad(void)
     third = 0;
 }
 //деструктор
-Triad::~Triad(void)
-{
-}
+Triad::~Triad(void){}
 //конструктор с параметрами
 Triad::Triad(int M, int C, int P)
 {
