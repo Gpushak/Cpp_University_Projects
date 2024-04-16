@@ -1,8 +1,6 @@
 ﻿  LabOOP5_main.cpp
-  Object.cpp
 C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP5\LabOOP5Resh\LabOOP5\LabOOP5_main.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   Time.cpp
   Triad.cpp
-  Vector.cpp
   Создание кода...
   LabOOP5.vcxproj -> C:\Users\igleb\repos\Cpp_University_Projects\Лабы 2 курс\LabOOP5\LabOOP5Resh\x64\Debug\LabOOP5.exe
