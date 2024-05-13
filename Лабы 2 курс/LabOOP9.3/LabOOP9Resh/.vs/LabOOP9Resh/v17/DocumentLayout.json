@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|solutionrelative:LabOOP9\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|solutionrelative:LabOOP9\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|solutionrelative:LabOOP9\\error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\LabOOP9_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1AF610-3D3C-4AB0-9B47-20AF0F7AE243}|LabOOP9\\LabOOP9.vcxproj|solutionrelative:LabOOP9\\LabOOP9_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "error.h",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\error.h",
+              "RelativeDocumentMoniker": "LabOOP9\\error.h",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\error.h",
+              "RelativeToolTip": "LabOOP9\\error.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T09:12:20.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.cpp",
+              "RelativeDocumentMoniker": "LabOOP9\\List.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.cpp",
+              "RelativeToolTip": "LabOOP9\\List.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T09:12:19.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.h",
+              "RelativeDocumentMoniker": "LabOOP9\\List.h",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\List.h",
+              "RelativeToolTip": "LabOOP9\\List.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T09:12:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabOOP9_main.cpp",
+              "DocumentMoniker": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\LabOOP9_main.cpp",
+              "RelativeDocumentMoniker": "LabOOP9\\LabOOP9_main.cpp",
+              "ToolTip": "C:\\Users\\igleb\\OneDrive\\Documents\\GitHub\\Cpp_University_Projects\\\u041B\u0430\u0431\u044B 2 \u043A\u0443\u0440\u0441\\LabOOP9.3\\LabOOP9Resh\\LabOOP9\\LabOOP9_main.cpp",
+              "RelativeToolTip": "LabOOP9\\LabOOP9_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T09:12:17.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

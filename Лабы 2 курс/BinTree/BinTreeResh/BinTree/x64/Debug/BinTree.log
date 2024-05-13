@@ -1,0 +1,159 @@
+﻿  main.cpp
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(25,10): error C3646: x: неизвестный спецификатор переопределения
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(25,10):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+  	при компиляции шаблона класса "Tree"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(25,12): error C2059: синтаксическая ошибка: =
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(25,22): error C2238: непредвиденные лексемы перед ";"
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(304,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(308,2): error C3861: glutInit: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(309,2): error C3861: glutInitWindowPosition: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(310,2): error C3861: glutInitWindowSize: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(311,22): error C2065: GLUT_RGB: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(311,33): error C2065: GLUT_DOUBLE: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(311,2): error C3861: glutInitDisplayMode: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(312,2): error C3861: glutCreateWindow: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(313,2): error C3861: glutReshapeFunc: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(314,2): error C3861: glutDisplayFunc: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(315,2): error C3861: glutMainLoop: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(337,10): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(337,28): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(340,10): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(340,28): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(341,9): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(341,27): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(359,30): error C2061: синтаксическая ошибка: идентификатор "GLfloat"
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(360,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(361,10): error C2065: GL_TRIANGLE_FAN: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(361,2): error C3861: glBegin: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(362,13): error C2065: x: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(362,16): error C2065: y: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(362,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(363,23): error C2563: несоответствие в списке формальных параметров
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(363,23): error C2568: <=: не удается разрешить перегрузку функции
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(363,23):
+  может быть "iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(365,5): error C2065: x: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(365,39): error C2563: несоответствие в списке формальных параметров
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(365,39): error C2568: /: не удается разрешить перегрузку функции
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(365,39):
+  может быть "iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(366,5): error C2065: y: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(366,10): error C2065: radiusB: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(366,39): error C2563: несоответствие в списке формальных параметров
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(366,39): error C2568: /: не удается разрешить перегрузку функции
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(366,39):
+  может быть "iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(364,3): error C3861: glVertex2f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(369,2): error C3861: glEnd: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(373,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(374,10): error C2065: GL_POINTS: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(374,2): error C3861: glBegin: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(377,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(378,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(379,4): error C3861: glVertex2f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(382,2): error C3861: glEnd: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(384,32): error C2061: синтаксическая ошибка: идентификатор "GLfloat"
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(387,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(389,18): error C2065: x: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(389,21): error C2065: y: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(390,14): error C2065: x: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(390,17): error C2065: y: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(391,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(392,16): error C2065: x: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(392,26): error C2065: y: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(392,2): error C3861: glRasterPos2f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(395,23): error C2065: GLUT_BITMAP_HELVETICA_18: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(395,3): error C3861: glutBitmapCharacter: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(404,11): error C2065: GL_LINES: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(404,3): error C3861: glBegin: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(405,28): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(405,45): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(405,3): error C3861: glVertex2d: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(406,20): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(406,29): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(406,3): error C3861: glVertex2d: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(407,3): error C3861: glEnd: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(422,49): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(422,58): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(422,3): error C2660: drawNode: функция не принимает 2 аргументов
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(384,6):
+   см. объявление "drawNode"
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(422,3):
+  при попытке сопоставить список аргументов "(const _Elem *, char)"
+          with
+          [
+              _Elem=char
+          ]
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(435,48): error C2039: "x": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(435,57): error C2039: "y": не является членом "Tree<char>".
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(18,7):
+   см. объявление "Tree<char>"
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(435,2): error C2660: drawNode: функция не принимает 2 аргументов
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(384,6):
+   см. объявление "drawNode"
+  C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(435,2):
+  при попытке сопоставить список аргументов "(const _Elem *, char)"
+          with
+          [
+              _Elem=char
+          ]
+  
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(438,15): error C2065: GL_PROJECTION: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(438,2): error C3861: glMatrixMode: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(439,2): error C3861: glLoadIdentity: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(440,2): error C3861: glViewport: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(441,2): error C3861: gluOrtho2D: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(444,2): error C3861: glClearColor: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(445,10): error C2065: GL_COLOR_BUFFER_BIT: необъявленный идентификатор
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(445,2): error C3861: glClear: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(446,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(447,2): error C3861: glLineWidth: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(450,2): error C3861: glutSwapBuffers: идентификатор не найден
+C:\Users\igleb\OneDrive\Documents\GitHub\Cpp_University_Projects\Лабы 2 курс\BinTree\BinTreeResh\BinTree\main.cpp(454,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
